@@ -3,5 +3,26 @@ Welcome to my Git AND GitHuB learning.!
 
 I LEARN GIT AND GITHUB COMMANDS FROM DEVTOWN BOOTCAMP
 
+1)git init   //Initialized the empty git REpository
 
+2)git config --global user.email "     "// Within " " type the user email who s currently woring among many user
+
+3)git config --global user.name "     " // Name of the user
+
+4)touch _____ (touch day1.txt)  -file is created //We can type some content in this
+
+5)TRACK Git
+
+  THRE ARE THREE STAGES IN GIT
+    1)REPOSITORY 
+        >  git add _____   //add the file to staging area to track
+     2)STAGING AREA
+        >  git commit -m "______" //commit the  file 
+    3)COMMIT
+    
+6)git status //Track the changes and commits n the repository
+7)git log //show the user and commits details 
+    a)git log ______  (git log master) //master - final commits details can be displayed
+    b)git log ______ (git log c424561) //c424561 - specific commit details can be displayed
+    
     
