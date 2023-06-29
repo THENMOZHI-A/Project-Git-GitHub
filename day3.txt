@@ -1,5 +1,21 @@
 DAY 3
   1) The Github is installed and sign up by the user
   2) There is a Github commands for create repository and add the existing repository
-  
+
+//ADD
+    echo "# THENMOZHI-A" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/THENMOZHI-A/THENMOZHI-A.git
+    git push -u origin main
+
+//PUSH EXISISTING REPSITORY
+     git remote add origin https://github.com/THENMOZHI-A/THENMOZHI-A.git
+     git branch -M main
+     git push -u origin main
+
+
+    
   
