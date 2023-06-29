@@ -1,0 +1,32 @@
+DAY2 --BRANCHING
+
+Initially 
+
+1)go to the git repo
+
+2)git checkout _____ //to goto the master commit or any other
+
+3)git branch //shoe the branching details
+
+4)git branch -----(branchname)  //new branch is created and we can create,edit,modify files in this branch
+
+5)git checkout -b ____//switch and create a new branch by one step
+
+6)git merge ______(branch) //merge the branch
+
+ Example:
+  ____->>master -->head  
+          |->Intial(branch)
+             |->day2(branch)
+                 |->day2.txt file
+
+    1)day2.txt file is commited then
+    2)Goto the initial branch to merge the current branch
+      ex: 1) >git checkout initail
+             >git merge day2      //here initial and day2 are merged as one
+          2) >git checkout master
+             >git merge initial 
+           
+
+
+    
