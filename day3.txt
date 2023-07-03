@@ -1,4 +1,5 @@
-DAY 3
+ADD AND PUSH THE FILE IN GITHUB USING COMMANDS
+
   1) The Github is installed and sign up by the user
   2) There is a Github commands for create repository and add the existing repository
 
